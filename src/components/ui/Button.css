@@ -1,0 +1,17 @@
+.button{
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(26, 77, 198);
+    color: black;
+    cursor: pointer;
+    transition: 0.3s;
+    margin: auto ;
+    position:static;
+    align-self: center;
+}
+/* Hover */
+.button:hover{
+    background-color: #27ae60;
+    transform: scale(1.1);
+    transition: 0.4s;
+}
