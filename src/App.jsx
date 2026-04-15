@@ -5,7 +5,7 @@ import Header from "./components/ui/Header"
 import CardV2 from "./components/ui/CardV2"
 import "./App.css"
 
-import img1 from "./assets/hero.png"
+import img1 from "./assets/DSMW.jpeg"
 import img2 from "./assets/R.jpg"
 import img3 from "./assets/DWM.jpeg"
 
@@ -13,8 +13,8 @@ function App({onNavigation}){
   return(
     <section className="page">
       <Header 
-      title="A"
-      subtitle="Exemplo simples com componentização"
+      title="Desenvolvimento Web Vs Mobile"
+      subtitle="Oque é e sla mais oq"
       />
       <div className="App">
         <h1>Meus Cards</h1>
