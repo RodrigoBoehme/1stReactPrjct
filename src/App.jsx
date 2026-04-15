@@ -7,6 +7,7 @@ import "./App.css"
 
 import img1 from "./assets/hero.png"
 import img2 from "./assets/R.jpg"
+import img3 from "./assets/DWM.jpeg"
 
 function App({onNavigation}){
   return(
@@ -18,7 +19,7 @@ function App({onNavigation}){
       <div className="App">
         <h1>Meus Cards</h1>
         <CardV2
-        imagem={img1}
+        imagem={img3}
         alt=""
         titulo="Ab12"
         descricao="jdlnalksdnçasmd mkaçldnlka nlkdnalkd nklansdk an lkadknsald alksndlk  klaklnjlngi"
