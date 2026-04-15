@@ -21,25 +21,27 @@ function App({onNavigation}){
         <CardV2
         imagem={img3}
         alt=""
-        titulo="Ab12"
-        descricao="jdlnalksdnçasmd mkaçldnlka nlkdnalkd nklansdk an lkadknsald alksndlk  klaklnjlngi"
-        textoBotao="clique em mim"
+        titulo="Oque é"
+        descricao="O desenvolvimento web e mobile envolve a criação de sites e aplicativos, utilizando tecnologias específicas para cada plataforma, com foco em experiência do usuário, performance e integração de sistemas."
+        textoBotao="Clique Ali"
         />
 
         <CardV2
         imagem={img1}
         alt="asda"
-        titulo="CD34"
-        descricao="Lorem ipsumljnldkansld"
-        textoBotao="abrabrabra"
+        titulo="Desenvolvimento Web"
+        descricao="O desenvolvimento web refere-se à criação de sites e aplicações acessíveis via navegador, podendo ser dividido em front-end (HTML, CSS, JavaScript, frameworks como React, Angular e Vue.js), back-end (Node.js, PHP, Python, Java, bancos de dados como MySQL, PostgreSQL e MongoDB) e full-stack, que combina ambas as áreas."
+        textoBotao="Clique Aqui"
         />
 
         <CardV2
         imagem={img2}
         alt="avbfnka"
-        titulo="abravra"
-        descricao="djlajj jlksdnjabiu oieoiano bvvnd cnmdoij brijnqonsof ojneoqnosndsaomf ojneqojwnn nndalkno nofjna jonfofjnsjf jdkals"
-        textoBotao="Abra"
+        titulo="Desenvolvimento mobile"
+        descricao="Já o desenvolvimento mobile foca em aplicativos para smartphones e tablets, podendo ser nativo (Kotlin para Android, Swift para iOS) ou híbrido (React Native, Flutter), oferecendo acesso a funcionalidades nativas como GPS, câmera e notificações. 
+nextage.com.br
++2"
+        textoBotao="Clique Acola"
         />
       </div>
     </section>
